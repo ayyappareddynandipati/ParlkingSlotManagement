@@ -1,4 +1,4 @@
-
+package com.parking.service.interfaces;
 
 import com.parking.model.VehicleType;
 
